@@ -83,4 +83,6 @@ Remember, always prioritize security when accessing darknet platforms. Use verif
 
 
 
-Update:  12 September Broken anchors
+
+
+Update:  18 September Link is now operational
